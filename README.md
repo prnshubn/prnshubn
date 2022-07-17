@@ -2,11 +2,9 @@
 
 <h2>I am Priyanshu Bandyopadhyay.
 
-<h3>Here's a brief intro about me.<br>
-<h4>Love to code and trying to be consistent on LeetCode.😅<br>
-Java is my forte. I am still not a pro in DSA.😢<br>
-Always ready to reduce time complexity.😎<br>
-I am eager to learn Solidity.🤩
+<h4>Here's a brief intro about me.<br>
+<h3>I love to code and  I am trying to be consistent on LeetCode. Java is my forte. Always ready to reduce time complexity but I still can't call myself a pro in DSA. I am eager to learn Solidity.
+<hr>
 
 <h4 align="middle">You can reach me via
 <p align="middle">
