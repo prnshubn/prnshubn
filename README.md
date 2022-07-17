@@ -6,7 +6,7 @@
 <h3>I love to code and  I am trying to be consistent on LeetCode. Java is my forte. Always ready to reduce time complexity but I still can't call myself a pro in DSA. I am eager to learn Solidity.
 <hr>
 
-<h4 align="middle">You can reach me via
+<h4 align="middle">Reach me via
 <p align="middle">
 <a href="https://www.linkedin.com/in/prnshubn">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
