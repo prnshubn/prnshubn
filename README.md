@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**prnshubn/prnshubn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I am Priyanshu Bandyopadhyay.
 
-Here are some ideas to get you started:
+<h3>Here's a brief intro about me.<br>
+<h4>Love to code and trying to be consistent on LeetCode.😅<br>
+Java is my forte. I am still not a pro in DSA.😢<br>
+Always ready to reduce time complexity.😎<br>
+I am eager to learn Solidity.🤩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="middle">You can reach me via
+<p align="middle">
+<a href="https://www.linkedin.com/in/prnshubn">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+<a href="mailto:priyanshu.banerjee1311@gmail.com?subject=Hello%20Priyanshu,%20from%20your%20GitHub%20profile">
+<img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=red&logoColor=white">
+</a>
+<a href="https://twitter.com/prnshubn">
+<img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white">
+</a>
+</p>
+
+<h4 align="middle">Find me on
+<p align="middle">
+<a href="https://leetcode.com/prnshubn">
+<img src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode&labelColor=black&logoColor=yellow">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
+<img src="https://img.shields.io/badge/-GeeksForGeeks-brightgreen?style=flat&logo=GeeksForGeeks&labelColor=brightgreen&logoColor=white">
+</a>
+<a href="https://www.codingninjas.com/codestudio/profile/1f5d5f84-a976-4c46-91eb-c76561d309c3">
+<img src="https://img.shields.io/badge/-CodeStudio-orange?style=flat&logo=CodingNinjas&labelColor=orange&logoColor=white">
+</a>
+<a href="https://www.hackerrank.com/prnshubn">
+<img src="https://img.shields.io/badge/-HackerRank-black?style=flat&logo=Hackerrank&labelColor=black&logoColor=brightgreen">
+</a>
+</p>
