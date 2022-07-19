@@ -6,6 +6,11 @@
 <h3>I love to code and  I am trying to be consistent on LeetCode. Java is my forte. Always ready to reduce time complexity but I still can't call myself a pro in DSA. I am eager to learn Solidity.
 <hr>
 
+<p align="middle">
+<img align="middle" height="230" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnshubn&theme=nord" alt="prnshubn"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="middle" height="230" src="https://github-readme-stats.vercel.app/api?username=prnshubn&&show_icons=true&count_private=true&theme=radical" alt="prnshubn"/>
+</p>
+
 <h4 align="middle">Reach me via
 <p align="middle">
 <a href="https://www.linkedin.com/in/prnshubn">
