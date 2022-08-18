@@ -33,10 +33,4 @@
 <a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
 <img src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=GeeksForGeeks&labelColor=brightgreen&logoColor=white">
 </a>
-<a href="https://www.codingninjas.com/codestudio/profile/1f5d5f84-a976-4c46-91eb-c76561d309c3">
-<img src="https://img.shields.io/badge/-CodeStudio-orange?style=flat&logo=CodingNinjas&labelColor=orange&logoColor=white">
-</a>
-<a href="https://www.hackerrank.com/prnshubn">
-<img src="https://img.shields.io/badge/-HackerRank-black?style=flat&logo=Hackerrank&labelColor=black&logoColor=brightgreen">
-</a>
 </p>
