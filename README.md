@@ -12,6 +12,7 @@
 <a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnshubn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prnshubn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
+<hr>
 
 <h4 align="middle">Find me on
 <p align="middle">
