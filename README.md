@@ -13,6 +13,16 @@
 <a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prnshubn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
+<h4 align="middle">Find me on
+<p align="middle">
+<a href="https://leetcode.com/prnshubn">
+<img src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode&labelColor=black&logoColor=yellow">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
+<img src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=GeeksForGeeks&labelColor=brightgreen&logoColor=white">
+</a>
+</p>
+
 <h4 align="middle">Reach me via
 <p align="middle">
 <a href="https://www.linkedin.com/in/prnshubn">
@@ -23,15 +33,5 @@
 </a>
 <a href="https://twitter.com/prnshubn">
 <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white">
-</a>
-</p>
-
-<h4 align="middle">Find me on
-<p align="middle">
-<a href="https://leetcode.com/prnshubn">
-<img src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode&labelColor=black&logoColor=yellow">
-</a>
-<a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
-<img src="https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=GeeksForGeeks&labelColor=brightgreen&logoColor=white">
 </a>
 </p>
