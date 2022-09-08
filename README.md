@@ -7,8 +7,10 @@
 <hr>
 
 <p align="middle">
+<a href="https://github.com/prnshubn/github-readme-streak-stats"><img alt="Priyanshu's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prnshubn&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<br>
 <a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prnshubn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prnshubn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/bratati-rout/github-readme-stats"><img alt="Priyanshu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prnshubn&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <h4 align="middle">Reach me via
