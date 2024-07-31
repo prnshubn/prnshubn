@@ -35,7 +35,7 @@
 <a href="mailto:priyanshu.banerjee1311@gmail.com?subject=Hello%20Priyanshu,%20from%20your%20GitHub%20profile">
 <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=red&logoColor=white">
 </a>
-<a href="https://twitter.com/prnshubn">
-<img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white">
+<a href="https://x.com/prnshubn">
+<img src="https://img.shields.io/badge/-black?style=flat&logo=X&logoColor=white">
 </a>
 </p>
