@@ -3,7 +3,7 @@
 <h2>I am Priyanshu Bandyopadhyay.
 
 <h4>Here's a brief intro about me.<br>
-<h3>I love to code and  I am trying to be consistent on LeetCode. Java is my forte. Always ready to reduce time complexity but I still can't call myself a pro in DSA. I am eager to learn blockchain development.
+<h3>Seasoned Java developer specialising in Spring Boot and API development. Passionate about creating robust and scalable solutions to drive business growth. Strong problem-solving skills and a knack for optimising performance. Constantly seeking new ways to enhance my skills and contribute to innovative projects.
 <hr>
 
 <p align="middle">
