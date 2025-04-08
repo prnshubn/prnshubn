@@ -3,7 +3,7 @@
 <h2>I am Priyanshu Bandyopadhyay.
 
 <h4>Here's a brief intro about me.<br>
-<h3>Experienced software engineer with a strong background in Java, specializing in building scalable, cloud-compliant solutions. Skilled in leadership, problem-solving, and communication, with a focus on optimizing performance and driving business growth. Passionate about continually enhancing my skills and contributing to innovative, high-impact projects.<h3>
+<h3>Experienced software engineer with a strong background in Java & AWS, specializing in building scalable, cloud-compliant solutions. Skilled in leadership, problem-solving, and communication, with a focus on optimizing performance and driving business growth. Passionate about continually enhancing my skills and contributing to innovative, high-impact projects.<h3>
 <hr>
 
 <p align="middle">
