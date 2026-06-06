@@ -27,7 +27,7 @@
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,python,docker,kafka,git,github&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,jenkins,docker,kubernetes,kafka,git,github&perline=10" alt="Tech Stack Icons" />
   </a>
 </p>
 
