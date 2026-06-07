@@ -2,6 +2,12 @@
 
 <h3 align="center">Software Engineer / Solutions Architect</h3>
 
+<p align="center">
+  <a href="https://www.overleaf.com/read/xjftwmmwhygc#1e1e00">
+    <img src="https://img.shields.io/badge/View_My_Resume-2F80ED?style=for-the-badge&logo=overleaf&logoColor=white" alt="Resume Badge" />
+  </a>
+</p>
+
 <hr>
 
 ### 👨‍💻 About Me
