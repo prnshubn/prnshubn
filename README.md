@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Priyanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Software Engineer / Solutions Architect</h3>
+<h3 align="center">Backend Engineer | AWS · Java · Python</h3>
 
 <p align="center">
   <a href="https://www.overleaf.com/read/xjftwmmwhygc#1e1e00">
