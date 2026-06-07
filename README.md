@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Priyanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer;AWS+Certified+Solutions+Architect;MEng+Information+Technology" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">Software Engineer / Solutions Architect</h3>
 
 <hr>
 
