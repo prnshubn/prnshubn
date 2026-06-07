@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Priyanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">👋 Hi there, I'm Priyanshu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">Software Engineer / Solutions Architect</h3>
+<h3 align="center">💻 Software Engineer / Solutions Architect</h3>
 
 <hr>
 
@@ -36,8 +36,8 @@
 
 <hr>
 
-<h4 align="middle">Find me on</h4>
-<p align="middle">
+<h3 align="center">🌐 Find me on</h3>
+<p align="center">
   <a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksForGeeks" width="48" height="48" style="margin-right: 10px;">
   </a>
@@ -49,8 +49,8 @@
   </a>
 </p>
 
-<h4 align="middle">Reach me via</h4>
-<p align="middle">
+<h3 align="center">📫 Reach me via</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/prnshubn">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
