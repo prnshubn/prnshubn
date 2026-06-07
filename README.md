@@ -12,11 +12,10 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 I’m currently working at [Ginmon](https://www.ginmon.de/), building cloud-native solutions with Quarkus on AWS.
-* 🎓 I'm pursuing an [MEng - Information Technology](https://www.frankfurt-university.de/en/studies/master-programs/information-technology-meng/for-prospective-students/) at the [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/).
-* 💼 Previously, I was a Project Engineer at [Wipro](https://www.wipro.com/), where I led the migration of several legacy services from TIBCO to Spring Boot and Spring Batch.
-* ☁️ I am an [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/5b770ca8-4c05-4142-9846-1d272740ab44/public_link), passionate about building robust, scalable, event-driven architectures.
-
+* Currently working at [Ginmon](https://www.ginmon.de/), building cloud-native solutions with Quarkus on AWS.
+* Pursuing an [MEng - Information Technology](https://www.frankfurt-university.de/en/studies/master-programs/information-technology-meng/for-prospective-students/) at the [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/).
+* Previously, I was a Project Engineer at [Wipro](https://www.wipro.com/), where I led the migration of several legacy services from TIBCO to Spring Boot and Spring Batch.
+* [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/5b770ca8-4c05-4142-9846-1d272740ab44/public_link), focused on event-driven, cloud-native backend systems on AWS.
 <hr>
 
 ### 🚀 Featured Academic Projects
@@ -29,7 +28,7 @@
 <h3 align="center">🛠️ My Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,jenkins,docker,kubernetes,kafka,git,github&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=aws,java,spring,python,kafka,docker,kubernetes,jenkins,githubactions,git&perline=10" alt="Tech Stack" />
   </a>
 </p>
 
@@ -64,6 +63,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
   <a href="https://x.com/prnshubn">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
   </a>
 </p>
