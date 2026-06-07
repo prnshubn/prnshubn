@@ -38,23 +38,26 @@
 
 <h4 align="middle">Find me on</h4>
 <p align="middle">
-  <a href="https://leetcode.com/prnshubn">
-    <img src="https://img.shields.io/badge/-LeetCode-black?style=flat&logo=LeetCode&labelColor=black&logoColor=yellow">
-  </a>
   <a href="https://auth.geeksforgeeks.org/user/prnshubn/practice">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-deepgreen?style=flat&logo=GeeksForGeeks&labelColor=brightgreen&logoColor=white">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksForGeeks" width="48" height="48" style="margin-right: 10px;">
+  </a>
+  <a href="https://leetcode.com/prnshubn">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="48" height="48" style="margin-right: 10px;">
+  </a>
+  <a href="https://open.spotify.com/user/oqeufpwbisl8f6soy9de0ox9h?si=57e9a2395d7d4f60">
+    <img src="https://cdn.simpleicons.org/spotify/1DB954" alt="Spotify" width="48" height="48">
   </a>
 </p>
 
 <h4 align="middle">Reach me via</h4>
 <p align="middle">
   <a href="https://www.linkedin.com/in/prnshubn">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:priyanshu.banerjee1311@gmail.com?subject=Hello%20Priyanshu,%20from%20your%20GitHub%20profile">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=red&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
   </a>
   <a href="https://x.com/prnshubn">
-    <img src="https://img.shields.io/badge/-black?style=flat&logo=X&logoColor=white">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X">
   </a>
 </p>
