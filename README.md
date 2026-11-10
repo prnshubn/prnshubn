@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-* Currently working at [Ginmon](https://www.ginmon.de/), building cloud-native solutions with Quarkus on AWS.
+* Software engineer at [Ginmon](https://www.ginmon.de/), building next-gen fintech products.
 * Pursuing an [MEng - Information Technology](https://www.frankfurt-university.de/en/studies/master-programs/information-technology-meng/for-prospective-students/) at the [Frankfurt University of Applied Sciences](https://www.frankfurt-university.de/).
 * Previously, I was a Project Engineer at [Wipro](https://www.wipro.com/), where I led the migration of several legacy services from TIBCO to Spring Boot and Spring Batch.
 * [AWS Certified Solutions Architect Associate (SAA-C03)](https://www.credly.com/badges/5b770ca8-4c05-4142-9846-1d272740ab44/public_link), focused on event-driven, cloud-native backend systems on AWS.
